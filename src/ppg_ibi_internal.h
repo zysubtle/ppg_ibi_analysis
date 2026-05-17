@@ -1,0 +1,10 @@
+#ifndef PPG_IBI_INTERNAL_H
+#define PPG_IBI_INTERNAL_H
+
+#include "ppg_ibi.h"
+
+#define PPG_IBI_PLACEHOLDER_IBI_MS (0u)
+#define PPG_IBI_PLACEHOLDER_CONFIDENCE (0.0f)
+#define PPG_IBI_PLACEHOLDER_SIGNAL_QUALITY (0.0f)
+
+#endif /* PPG_IBI_INTERNAL_H */
